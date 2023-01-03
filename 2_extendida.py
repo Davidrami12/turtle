@@ -59,6 +59,6 @@ for color in ["yellow", "orange", "red", "brown", "purple", "blue", "cyan", "gre
 
 for n in range(4, 25):
     kame.poligono(n, n*10)
-    kame.speed(8)
+    kame.speed(20)
 
 turtle.mainloop()
